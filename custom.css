@@ -1,0 +1,59 @@
+body{
+  background: #2d3e4e !important;
+  /* background: linear-gradient(to left, #3b579a ,  #191788) !important; */
+  /* background: linear-gradient(to left, #002447 ,  #5f1b82) !important; */
+  /* background: linear-gradient(to left, #09203f , #537895) !important; */
+  /* background: linear-gradient(to left, #09203f , #537895) !important; */
+  /* background: linear-gradient(to left, #674f9a, #17181b) !important; */
+}
+a,a:hover{text-decoration: none !important;}
+.bg-overlaylivestream {
+  /* background: linear-gradient(rgba(0,0,0,.14), rgba(0,0,0,.7)), url("/assets/images/Smarthomenestlive.png"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  height: 450px;
+  padding-top: 50px;
+}
+.canvas{
+
+  width:1000px !important;
+  height:600px !important;
+
+}
+header{
+  /*background-image: linear-gradient(to left, #9a2897, #254692);*/
+  background-color: #1260a2 !important;
+}
+.formErrorMsg {
+  color: red;
+  font-size: 14px;
+}
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 39px;
+}
+.thermometer ul.thermometer__statistics, .thermometer--small ul.thermometer__statistics li,
+.thermometer--normal ul.thermometer__statistics li, .thermometer--large ul.thermometer__statistics li,
+.thermometer--theme-light ul.thermometer__statistics li, .thermometer--theme-light ul.thermometer__statistics li:before,
+.thermometer--theme-dark ul.thermometer__statistics li,.thermometer--theme-dark ul.thermometer__statistics li:before,
+.thermometer ul.thermometer__statistics, .thermometer ul.thermometer__statistics li,
+.thermometer ul.thermometer__statistics li:before {
+  display:none !important;
+  }
+
+  .thermometer{
+    position:'relative !important';
+    top:'4em !important';
+     right:'4em !important';
+  }
+  .thermometer .thermometer--small .thermometer--theme-dark {
+    position:'relative';
+     top:'4em';
+      right:'4em';
+  }
+  .container{
+    margin-top: 4%;
+  }

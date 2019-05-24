@@ -1,0 +1,20 @@
+.sidebar-logo{
+    margin-left: 27%;
+    float: left;
+}
+.card-img-top{width:auto !important}
+.header-logo{float: left;}
+.sidebar-image{
+    width: 30px !important;
+    height:25px !important;
+}
+.icon-menu-outer{
+    display: grid;
+    float: left;
+}
+/* .MuiPaper-root-12{background-color: #283847 !important;}
+@media (min-width: 600px){
+.Sidebar-drawerClose-8 {
+    width: 48px !important;
+}
+} */

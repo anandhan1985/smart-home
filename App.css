@@ -1,0 +1,16 @@
+body{
+    /*background-image: url('Smart-Home-Network-Hero.jpg');*/
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 16px !important;  
+    opacity: 0.9;
+}
+a,a:hover{text-decoration: none !important;}
+h2 .MuiTypography-h5{
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 16px !important;  
+}
+h2{
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 16px !important; 
+}
+/* #00afd8 */

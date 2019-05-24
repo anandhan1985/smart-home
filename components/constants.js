@@ -1,0 +1,1 @@
+export const LIFX_API_URL ='https://api.lifx.com/v1/lights';

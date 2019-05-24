@@ -1,0 +1,122 @@
+.security-card-outer{
+   margin-top: 8%;
+}
+.security-details{
+    width: 25%;
+    height: 258px;
+   float: left;
+   margin: 0 0 25px 56px;
+}
+.security{
+    width: 40%;
+    height: 300px;
+    display: flex;
+    margin: auto;
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);border-radius: 5px;
+}
+.security-outer{display: flex;}
+.security-details-outer{
+    display: inline-block;
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);border-radius: 5px;
+    background: #34465a;
+    position: absolute;
+    top:15%;
+    width: 70%;
+    left: 15%;min-height:460px;
+}
+.bed-room-bg{
+    background: url("/assets/images/bed-room-bg.jpg");
+}
+.living-room-bg{
+    background: url("/assets/images/living-room-bg.png");
+}
+.kitchen-bg{
+    background: url("/assets/images/kitchen-bg.jpg");
+}
+.store-room-bg{
+    background: url("/assets/images/store-room-bg.jpg"); 
+}
+.close-btn-outer{
+    width: 100%;
+    float: left;
+}
+.close-btn{
+    width: 25px;
+    float: right;
+    height: 25px;
+    cursor: pointer;
+}
+.card-title{font-size: 15px !important;margin: 0;}
+.top-title{margin-top:20px;}
+.custom-control{background: #000;opacity: 0.6;text-align: center;}
+.card-body{
+    text-align: left;
+}
+.mode-radio{margin-left: 10px;}
+.device-text{margin: 10px;text-align: center;padding-top: 10px; }
+.card-img-device-icon{cursor: pointer;width: 80px;height: 80px;}
+.security-icon-outer{
+width: 25%;
+float: left;
+margin-left:8%;
+}
+.switch-outer{
+    width: 100%;
+    float: left;
+    display: flex;
+    margin-bottom: 2%;
+}
+
+.security-icon-label{
+    font-size: 12px;
+}
+.card-object{
+    margin: auto;
+    display: flex;
+    width: 60px;    
+    margin-top: 20px;
+}
+.device-state-img{
+    width:100%;
+    float: left;
+}
+.blink{
+    width: 100%;
+    height: 43px;
+    text-align: center;
+    display: flex;
+    margin: 13px 0px 10px 0px;
+    float: left;
+}
+.blink-text{
+    font-size: 20px;
+    font-family: cursive;
+    color: red;
+    font-weight: 900;
+    animation: blink 1s linear infinite;
+}
+.device-off{
+    height: 230px;
+    width: 100%;
+    float: left;
+}
+@keyframes blink{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+}
+audio{
+    height: 26px;
+    width: 100%
+}
+.device-list{
+    width: 10%;
+    background: none !important;
+}
+.switch-btn{
+    margin: auto;
+    display: flex;
+}
+.btn{
+    border-radius: 0px !important;
+}
