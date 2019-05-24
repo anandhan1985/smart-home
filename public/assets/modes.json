@@ -1,0 +1,21 @@
+{
+    "modes":
+[
+
+    {
+    "name":"Day",
+    "activeTimeFrom":"6 Am",
+    "activeTimeTo":"6 Pm",
+    "iconName":"sun",
+    "Active":true
+},
+{
+    "name":"Night",
+    "activeTimeFrom":"6 Pm",
+    "activeTimeTo":"6 Am",
+    "iconName":"moon",
+    "Active":true
+}
+]
+
+}

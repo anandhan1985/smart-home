@@ -1,0 +1,237 @@
+{
+    "devices": [
+        {
+            "id": "ad243rfefe",
+            "device_id": "d073d510b549",
+            "uuid": "02860e4f-32ac-48e5-90ea-45cba8d4196e",
+            "version": "0.4",
+            "type": "Light",
+            "connection_status": "online",
+            "last_seen": "2017/07/19 11:00",
+            "name": "LIFX Bulb",
+            "label": "Living Room Bulb",
+            "description": "LIFX is a line of energy-efficient, multi-color, Wi-Fi enabled LED light bulbs that can be controlled via a Wi-Fi equipped device such as a smartphone or smartwatch.",
+            "company": "LIFX",
+            "group": {
+                "id": "596988b439d60e8075f1d4e786ca8b4c",
+                "name": "My Room"
+            },
+            "location": {
+                "id": "6f813f1a1cbc6d7124946265c6e5b2fc",
+                "name": "My Living Room"
+            },
+            "fields": {
+                "power": "off",
+                "brightness": 1,
+                "has_color": false,
+                "has_variable_color_temp": true,
+                "has_ir": false,
+                "has_multizone": false,
+                "color": {
+                    "hue": 0,
+                    "saturation": 0,
+                    "kelvin": 5000,
+                    "effect": "cool white"
+                }
+            }
+        },
+        {
+            "id": "3g2b3dv6267df",
+            "device_id": "d073d510b468",
+            "uuid": "f3h389c487-32ac-48e5-90ea-45cba8d4196e",
+            "version": "0.4",
+            "type": "Light",
+            "connection_status": "online",
+            "last_seen": "2017/07/19 11:00",
+            "name": "LIFX Bulb",
+            "label": "Bed Room Bulb",
+            "description": "LIFX is a line of energy-efficient, multi-color, Wi-Fi enabled LED light bulbs that can be controlled via a Wi-Fi equipped device such as a smartphone or smartwatch.",
+            "company": "LIFX",
+            "group": {
+                "id": "tn943f894f73f73gcrevr6fg647f",
+                "name": "My Room"
+            },
+            "location": {
+                "id": "nf5f983f9853hfui3hfiuhfuhi3f",
+                "name": "My Bedroom"
+            },
+            "fields": {
+                "power": "off",
+                "brightness": 1,
+                "has_color": false,
+                "has_variable_color_temp": true,
+                "has_ir": false,
+                "has_multizone": false,
+                "color": {
+                    "hue": 0,
+                    "saturation": 0,
+                    "kelvin": 5000,
+                    "effect": "cool white"
+                }
+            }
+        },
+        {
+            "id": "hfgjf578teruigthergh",
+            "device_id": "d3ugdy3vdy33",
+            "uuid": "02860e4f-32ac-48e5-90ea-45cba8d4196e",
+            "version": "0.4",
+            "type": "Food Container",
+            "connection_status": "online",
+            "last_seen": "2017/07/19 11:00",
+            "name": "Smart Container",
+            "label": "Smart Kitchen",
+            "description": "Helps user to track veggies and gives food suggestion and avoids wasting of veggies by letting before it spoils",
+            "company": "HCL",
+            "state": "on",
+            "group": {
+                "id": "596988b439d60e8075f1d4e786ca8b4hfrg6437c",
+                "name": "Kitchen Appliances"
+            },
+            "location": {
+                "id": "6f813f1a1cbc6d7124946265c6e5b2735678jbhbdfjfc",
+                "name": "My Kitchen"
+            },
+            "fields": {
+                "availableVeggies": [
+                    {
+                        "id": "244083",
+                        "name": "Carrot",
+                        "addedOn": "2019/04/11",
+                        "expectedExpiry": "2019/04/18",
+                        "status": "Fresh",
+                        "position": "tray 1"
+                    },
+                    {
+                        "id": "244083456",
+                        "name": "Beetroot",
+                        "addedOn": "2019/04/07",
+                        "expectedExpiry": "2019/04/16",
+                        "status": "Good",
+                        "position": "tray 3"
+                    },
+                    {
+                        "id": "244083245",
+                        "name": "Drumstick",
+                        "addedOn": "2019/04/03",
+                        "expectedExpiry": "2019/04/10",
+                        "status": "Bad",
+                        "position": "tray 2"
+                    }
+                ],
+                "availableFruits": [
+                    {
+                        "id": "5785847875",
+                        "name": "Apple",
+                        "addedOn": "2019/04/03",
+                        "expectedExpiry": "2019/04/10",
+                        "status": "Bad",
+                        "position": "tray 5"
+                    },
+                    {
+                        "id": "65123545",
+                        "name": "Orange",
+                        "addedOn": "2019/04/15",
+                        "expectedExpiry": "2019/04/21",
+                        "status": "Fresh",
+                        "position": "tray 4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "gfhj58787uieuigu",
+            "deviceClass": "Thermostat",
+            "device_id": "LCC-00D02DAB5CBE",
+            "uuid": "577rygg-32ac-48e5-90ea-45cba8788966d4196e",
+            "version": "0.4",
+            "type": "Thermostat",
+            "connection_status": "online",
+            "last_seen": "2017/07/19 11:00",
+            "name": "thermostat",
+            "label": "thermostat",
+            "macID": "00D02DAB5CBE",
+            "units": "Fahrenheit",
+            "outdoorHumidity": 67,
+            "indoorTemperature": 73,
+            "outdoorTemperature": 46,
+            "weather": "broken clouds",
+            "latitude": 42.358163,
+            "longitude": -71.098696,
+            "description": "To control HVAC of Home",
+            "company": "HCL",
+            "group": {
+                "id": "596988b439d60e8075f1d4e786ca8b4hfrg6437c",
+                "name": "Home appliances"
+            },
+            "availableLocations": [
+                {
+                    "id": "6f813f1a1cbc6d7124946265c6e5b2735678jbhbdfjfc",
+                    "name": "My Living Room"
+                },
+                {
+                    "id": "689jgfhojgofihj569y6hjktrhnrkhn",
+                    "name": "My Bed Room"
+                },
+                {
+                    "id": "ighit8757868758yrui5678jbhbdfjfc",
+                    "name": "My Kitchen"
+                }
+            ]
+            
+        },
+        {
+            "firmwareVer": "0.5.16A4",
+            "waterPresent": false,
+            "type": "Water Leak Detector",
+            "currentSensorReadings": {
+                "time": "2017-10-19T08:27:42",
+                "temperature": 20.39,
+                "humidity": 44.8
+            },
+            "currentAlarms": [],
+            "lastCheckin": "2017-10-19T08:27:44",
+            "lastDeviceSettingUpdatedOn": "0001-01-01T00:00:00",
+            "batteryRemaining": 43,
+            "isRegistered": true,
+            "hasDeviceCheckedIn": true,
+            "isDeviceOffline": false,
+            "firstFailedAttemptTime": "0001-01-01T00:00:00",
+            "failedConnectionAttempts": 0,
+            "wifiSignalStrength": -46,
+            "isFirmwareUpdateRequired": false,
+            "time": "2017-10-19T08:27:42",
+            "deviceClass": "LeakDetector",
+            "deviceType": "Water Leak Detector",
+            "deviceID": "31aae686-6b4a-476e-8cbc-da4a1cab2cd5",
+            "userDefinedDeviceName": "Basement",
+            "backend": {
+                "id": "31aae686-6b4a-476e-8cbc-da4a1cab2cd5"
+            },
+            "isAlive": true,
+            "isUpgrading": false,
+            "isProvisioned": true,
+            "deviceSettings": {
+                "temp": {
+                    "high": {
+                        "limit": 36.5
+                    },
+                    "low": {
+                        "limit": 6.5
+                    }
+                },
+                "humidity": {
+                    "high": {
+                        "limit": 70
+                    },
+                    "low": {
+                        "limit": 20
+                    }
+                },
+                "userDefinedName": "Basement",
+                "buzzerMuted": false,
+                "checkinPeriod": 8,
+                "currentSensorReadPeriod": 60
+            }
+        }
+    ]
+}

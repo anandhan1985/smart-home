@@ -1,0 +1,41 @@
+[
+  {
+    "id":0,
+    "moduleName":"Dashboard",
+    "icon":"th",
+    "activeFrom":"April 1, 2019",
+    "url":"/dashboard"
+
+  },
+  {
+    "id":1,
+     "moduleName":"Devices",
+     "icon":"laptop",
+     "activeFrom":"April 1, 2019",
+     "url":"/deviceList"
+   },
+  {
+    "id":2,
+    "moduleName":"Lights",
+    "icon":"lightbulb",
+    "activeFrom":"April 1, 2019",
+    "url":"/lights"
+
+  },
+ {
+  "id":3,
+   "moduleName":"Security",
+   "icon":"lock",
+   "activeFrom":"April 1, 2019",
+   "url":"/security"
+ },
+ {
+  "id":4,
+   "moduleName":"Kitchen",
+   "icon":"utensils",
+   "activeFrom":"April 1, 2019",
+   "url":"/kitchen"
+ }
+ 
+  
+]

@@ -1,0 +1,17 @@
+{
+  "Lights": [
+    {
+      "id": "d3b2f2d97452",
+      "label": "Left Lamp",
+      "power": "on",
+      "status": "ok"
+    }
+  ],
+  "Security": [
+    {
+      "id": "d3b2f2d97452",
+      "label": "Left Lamp",
+      "status": "ok"
+    }
+  ]
+}

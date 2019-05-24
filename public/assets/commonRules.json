@@ -1,0 +1,24 @@
+{
+    "modes":
+[
+
+    {
+    "name":"Day",
+    "activeTimeFrom":"6 Am",
+    "activeTimeTo":"6 Pm",
+    "img":"/assets/images/sunrise.png",
+    "Active":true
+},
+{
+    "name":"Night",
+    "activeTimeFrom":"6 Pm",
+    "activeTimeTo":"6 Am",
+    "img":"/assets/images/moonnight.png",
+    "Active":true
+}
+],
+"rooms":{
+    "roomname":"All Rooms",
+    "roomimg":"/assets/images/moonnight.png"
+}
+}
